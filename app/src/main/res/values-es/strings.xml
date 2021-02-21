@@ -137,8 +137,8 @@
     <string name="do_not_group_files">No agrupar</string>
     <string name="by_folder">Carpeta</string>
     <string name="by_last_modified">Fecha de modificación</string>
-    <string name="by_last_modified_daily">Fecha de modificacion (Día)</string>
-    <string name="by_last_modified_monthly">Fecha de modificación (Mes)</string>
+    <string name="by_last_modified_daily">Fecha de modificacion (día)</string>
+    <string name="by_last_modified_monthly">Fecha de modificación (mes)</string>
     <string name="by_date_taken">Fecha de creación</string>
     <string name="by_date_taken_daily">Fecha de creación (día)</string>
     <string name="by_date_taken_monthly">Fecha de creación (mes)</string>
@@ -200,7 +200,7 @@
     <string name="limit_folder_title">Limitar los títulos largos de las carpetas a 1 línea</string>
     <string name="square">Cuadrado</string>
     <string name="rounded_corners">Esquinas redondeadas</string>
-    <string name="export_favorite_paths">Export favorite file paths</string>
+    <string name="export_favorite_paths">Exportar rutas de archivo favoritas</string>
 
     <!-- Setting sections -->
     <string name="thumbnails">Miniaturas</string>
